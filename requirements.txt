@@ -3,3 +3,4 @@ numpy
 dlib-bin
 imutils
 streamlit
+streamlit-webrtc
